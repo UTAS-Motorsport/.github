@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# How to make a KiCad Repo
+##1.
+Create a repository for EACH PCB that is made and use the KiCad template.
+##2.
+Run the setup script from VS code (run task -> setup task). (not implamented yet)
+##3.
+Make a development branch to do all your work in.
+##4.
+To release the PCB create a pull request and merge to the main branch. (not implamented yet)
