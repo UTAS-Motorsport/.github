@@ -9,11 +9,11 @@ Naming scheme: EV[year]_[name-of-PCB]_PCB eg. EV24_VCU_PCB
 
 ## 2.
 
-Run the setup script from VS code (run task -> setup task). (not implamented yet)
+clone the repo to your device.
 
 ## 3.
 
-Make a development branch to do all your work in.
+Make a development branch to do all your work in. Select 'new branch' and called it development
 
 ## 4.
 
