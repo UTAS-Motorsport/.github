@@ -1,26 +1,6 @@
+![image](https://github.com/user-attachments/assets/1d18688b-b55c-41c5-912b-cca3d11fd954)
 
-# How to make a KiCad Repo
-
-## 1.
-
-Create a repository for EACH PCB that is made. Make it private and use the KiCad Template Repo
-
-##2.
-
-open the repo, go to settings and add 'maintain' access for the 'Electricals' team.
-
-Naming scheme: EV[year]_[name-of-PCB]_PCB eg. EV24_VCU_PCB
-
-## 3.
-
-clone the repo to your device.
-
-## 4.
-
-Make a development branch to do all your work in. (From the desktop app, select 'new branch' and call it development. Publish this branch)
-
-## 5.
-
-Create a KiCad Project with the same name as the repo inside this new repo.
-
-To release the PCB create a pull request and merge to the main branch. (not implamented yet)
+This is the home of UTAS Motorsport!  
+[Instagram](https://www.instagram.com/utasmotorsport/)  
+[Facebook](https://www.facebook.com/UniversityofTasmaniaMotorsport/)  
+[LinkedIn](https://www.linkedin.com/company/utasmotorsport/)
